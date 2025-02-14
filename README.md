@@ -16,7 +16,9 @@
 <div>
 <h2>💫 What I Do</h2>
   <ul>
-    <li>🏢 Sr. Frontend Developer at Innument Solutions Limited</li>
+    <li>💼 Sr. Frontend Developer with expertise in React ecosystem</li>
+    <li>🚀 Specialized in building scalable web applications</li>
+    <li>🔥 Passionate about clean code and best practices</li>
     <li>⚡ Creating lightning-fast user interfaces with React & Next.js</li>
     <li>🌐 Building responsive, accessible, and performant web applications</li>
     <li>🎨 Crafting pixel-perfect designs that convert visitors into customers</li>
@@ -24,11 +26,12 @@
     <li>🛠️ Optimizing web applications for maximum speed and scalability</li>
     <li>👥 Collaborating with cross-functional teams to deliver outstanding results</li>
     <li>🌱 Exploring Docker, Supabase, and AWS to expand my tech arsenal</li>
+    <li>📚 Continuous learner and tech enthusiast</li>
   </ul>
 
 💬 Ask me about **Next.js, React, Vue.js, NodeJs... or anything [here](mailto:md.soharubhossen@gmail.com)**
  </div>
-
+ 
  <br/>
  
 <div align="center"> 
